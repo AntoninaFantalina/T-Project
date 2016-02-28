@@ -1,0 +1,9 @@
+C:\Users\Nijest\Desktop\af\Учеба\ВС\New\Server Appl\Project T\bin\Debug\Project T.exe.config
+C:\Users\Nijest\Desktop\af\Учеба\ВС\New\Server Appl\Project T\bin\Debug\Project T.exe
+C:\Users\Nijest\Desktop\af\Учеба\ВС\New\Server Appl\Project T\bin\Debug\Project T.pdb
+C:\Users\Nijest\Desktop\af\Учеба\ВС\New\Server Appl\Project T\obj\Debug\Project T.csprojResolveAssemblyReference.cache
+C:\Users\Nijest\Desktop\af\Учеба\ВС\New\Server Appl\Project T\obj\Debug\Project_T.Form1.resources
+C:\Users\Nijest\Desktop\af\Учеба\ВС\New\Server Appl\Project T\obj\Debug\Project_T.Properties.Resources.resources
+C:\Users\Nijest\Desktop\af\Учеба\ВС\New\Server Appl\Project T\obj\Debug\Project T.csproj.GenerateResource.Cache
+C:\Users\Nijest\Desktop\af\Учеба\ВС\New\Server Appl\Project T\obj\Debug\Project T.exe
+C:\Users\Nijest\Desktop\af\Учеба\ВС\New\Server Appl\Project T\obj\Debug\Project T.pdb
